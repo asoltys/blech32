@@ -1,5 +1,5 @@
 {
-  "name": "blech32",
+  "name": "@asoltys/blech32",
   "version": "1.0.0",
   "description": "Blech32 encoding / decoding",
   "keywords": [
