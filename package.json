@@ -1,6 +1,6 @@
 {
   "name": "blech32",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Blech32 encoding / decoding",
   "keywords": [
     "blech32",
